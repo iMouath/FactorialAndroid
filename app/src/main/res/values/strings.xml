@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Factorial</string>
+    <string name="action_settings">Settings</string>
+    <string name="input_instruction">Please input a positive number:</string>
+    <string name="output_instruction">The factorial for your input is:</string>
+    <string name="compute">Compute</string>
+    <string name="num_less_0">Number MUST be greater than or equal to zero!</string>
+    <string name="num_big_12">Sorry, Can\'t give correct answer to anything greater than 20</string>
+    <string name="input_empty">Please input a number!</string>
+</resources>
